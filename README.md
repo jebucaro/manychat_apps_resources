@@ -4,7 +4,7 @@ This repo contains the resources for the apps I've published in ManyChat
 ## Apps
 ### Dynamically Rebrand your Links
 This app acts like a bridge for ManyChat to consume Rebrandly's API
-+ [Documentation](http://jonathanbucaro.com/rebrand-your-links-with-rebrandly-and-manychat/)
++ [Documentation](https://jonathanbucaro.com/rebrand-your-links-with-rebrandly-and-manychat/)
 + [App Link](https://apps.manychat.com/dynamically-rebrand-links)
 
 ### Monet
